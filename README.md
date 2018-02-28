@@ -1,2 +1,2 @@
 # firstone
-第一个仓库
+hello bird!
